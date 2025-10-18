@@ -16,16 +16,16 @@ This repository contains 70+ solved Object-Oriented Programming (OOP) problems i
 
 ##  Concepts Covered
 
-| Concept | Description | Example File |
-|----------|--------------|---------------|
-| **Class & Object** | Blueprint and instance creation 
-| **Inheritance** | Code reusability across child-parent 
-| **Polymorphism** | Method overloading & overriding & duck_typing
-| **Encapsulation** | Data hiding and private variables 
-| **Abstrcation** | To hide the implementaion
-| **Composition** | “Has-A” relationship between classes 
-| **Operator Overloading** | Redefining operators like `+`, `*` 
-| **Exception Handling** | Handling runtime errors safely 
+| Concept | Description | 
+|----------|--------------|
+| **Class & Object** | Blueprint and instance creation | 
+| **Inheritance** | Code reusability across child-parent |
+| **Polymorphism** | Method overloading & overriding & duck_typing |
+| **Encapsulation** | Data hiding and private variables |
+| **Abstrcation** | To hide the implementaion |
+| **Composition** | “Has-A” relationship between classes | 
+| **Operator Overloading** | Redefining operators like `+`, `*` |
+| **Exception Handling** | Handling runtime errors safely |
 
 ## Learning Outcomes
 
